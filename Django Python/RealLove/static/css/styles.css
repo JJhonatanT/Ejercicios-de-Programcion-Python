@@ -1,0 +1,5 @@
+/* static/css/styles.css */
+body {
+    background-image: url('img/fondo.jpeg');
+    background-size: cover;
+}
